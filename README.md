@@ -1,1 +1,3 @@
 # Browse
+Thinking to change the browser??? 🤔🤔🤔 Then here is what you would like...A browser that mostly doesn't have pop-ups so you dont get irritated...
+**IMPORTANT** : And remember to install PyQt5 and PyQt5WebEngine using: (pip install PyQt5) and (pip install PyQt5WebEngine)
